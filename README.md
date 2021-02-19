@@ -9,7 +9,7 @@
 
 ---
 
-### 💻 Technologies
+### 💻 Technologies 💻
 
 <div style="display:flex;width:600px;">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -31,7 +31,9 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<div style="margin-right:16px;">
+### 📈 Some Stats 📈
+
+<div style="margin-right:16px;display:flex;flex-direction:column;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarces&hide=html&layout=compact&theme=react&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianGarces&hide=stars,issues&?count_private=true&show_icons=true&theme=react&hide_border=true" />
 </div>
