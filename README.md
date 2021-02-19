@@ -9,9 +9,8 @@
 
 ---
 
-🏢 Lead Web Developer @ Welcome Connect LLC
-
-🎨 UI / UX Enthusiast 
+#### 🏢 Lead Web Developer @ Welcome Connect LLC
+#### 🎨 UI / UX Enthusiast 
 
 ### 💻 Technologies 💻
 
