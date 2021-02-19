@@ -9,8 +9,10 @@
 
 ---
 
-#### 🏢 Lead Web Developer @ Welcome Connect LLC
-#### 🎨 UI / UX Enthusiast 
+- 🏢 Lead Web Developer @ Welcome Connect LLC
+- 🎨 UI / UX Enthusiast
+- 🎸 Bass Player
+- 🎖 US Marine
 
 ### 💻 Technologies 💻
 
