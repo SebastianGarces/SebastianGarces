@@ -30,10 +30,8 @@
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-<br></br>
 
-<div style="margin-top:16px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarces&hide=html&layout=compact&theme=react&hide_border=true" style="margin-right:16px;"/>
-<br></br>
+<div style="margin-right:16px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarces&hide=html&layout=compact&theme=react&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianGarces&hide=stars,issues&?count_private=true&show_icons=true&theme=react&hide_border=true" />
 </div>
