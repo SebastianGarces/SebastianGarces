@@ -10,6 +10,7 @@
 ---
 
 🏢 Lead Web Developer @ Welcome Connect LLC
+
 🎨 UI / UX Enthusiast 
 
 ### 💻 Technologies 💻
