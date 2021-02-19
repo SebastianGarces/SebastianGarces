@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian 👋
+### Hi there 👋
 
 <a href="https://twitter.com/gsgarces">
 <img alt="Twitter" src="https://img.shields.io/badge/@GSGARCES%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
