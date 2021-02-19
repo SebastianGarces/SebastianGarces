@@ -1,7 +1,11 @@
 ### Hi there, I'm Sebastian 👋
 
-<img alt="Twitter" src="https://img.shields.io/badge/@GSGARCES%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&url=https://twitter.com/gsgarces"/>
-<img alt="LinkedIn" src="https://img.shields.io/badge/@gsebastiangarces%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/gsebastiangarces/"/>
+<a href="https://twitter.com/gsgarces">
+<img alt="Twitter" src="https://img.shields.io/badge/@GSGARCES%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/gsebastiangarces/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/@gsebastiangarces%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <br>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
