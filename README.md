@@ -7,7 +7,7 @@
 
 ---
 
-- 🏢 Lead Web Developer @ Welcome Connect LLC
+- 🏢 Developer @ Nexient
 - 🎨 UI / UX Enthusiast
 - 🎸 Bass Player
 - 🎖 US Marine
