@@ -7,7 +7,7 @@
 
 ---
 
-- 🏢 Developer @ Nexient
+- 🏢 Sr. Software Engineer @ ACME General Corp.
 - 🎨 UI / UX Enthusiast
 - 🎸 Bass Player
 - 🎖 US Marine
